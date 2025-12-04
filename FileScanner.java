@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class FileScanner {
     public static void main(String[] args) {
+        if(args.length != 3) {
+            System.out.println("Incorrect numberof arguments");
+            return;
+        }
+        
         String command = args[0];
         String wordToFind = args[1];
         String filePath = args[2];

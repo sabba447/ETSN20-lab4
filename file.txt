@@ -1,8 +1,9 @@
-jkd skdjsdjsd kjs djs d dsjdhksdhksj
-s
-dsjdhksdhksj
-djssad
-s
-dsjdhksdhksjd
-hej
-skdjskhej
+Detta är en test fil
+Denna fil kan användas för att test programmet FileScaner.java
+Kan du hitta alla linjer med ordet "fil" i?
+
+
+
+Här kommer lite random text
+
+fil 
